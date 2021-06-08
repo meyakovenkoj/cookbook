@@ -1,0 +1,19 @@
+{
+  "name": "cookbook",
+  "version": "1.0.0",
+  "description": "Cookbook, which can help you to find your dish ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meyakovenkoj/cookbook.git"
+  },
+  "author": "Ivan Yakovenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meyakovenkoj/cookbook/issues"
+  },
+  "homepage": "https://github.com/meyakovenkoj/cookbook#readme"
+}
